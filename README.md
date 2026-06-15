@@ -4,11 +4,13 @@
 
 ## 📚 Conteúdo da Disciplina
 
-Este repositório está organizado em torno dos principais tópicos abordados durante o semestre:
+> Este repositório está organizado em torno dos principais tópicos abordados durante o semestre:
 
 * **Engenharia de Software:** Conceitos fundamentais, ciclo de vida do software e qualidade.
 * **Elicitação de Requisitos:** Técnicas para levantamento, análise, especificação e validação de requisitos de sistemas.
 * **Metodologias Ágeis:** Estudo de frameworks modernos de desenvolvimento (como Scrum e Kanban), iteratividade e entrega contínua.
 * **Linguagem UML (Unified Modeling Language):** Modelagem orientada a objetos, abrangendo diagramas estruturais e comportamentais.
 
-## 📂 Estrutura do Repositório (Em andamento...)
+## 📂 trabalhoDoSemestre
+
+> Todas as Sprints em um documento
